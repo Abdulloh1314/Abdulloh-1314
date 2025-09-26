@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(210, 222, 233);
+}
+.karobka1{
+    background-color: rgb(3, 3, 47);
+    padding: 15px;
+    border-radius: 10px;
+}
+.a{
+    text-align: center;
+    color: white;
+}
+.b{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.karobka2{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.m{
+    color: green;
+    text-align: center;
+   font-size: 30px;
+}
+.u{
+    text-align: center;
+    font-size: 30px;
+}
+.karobka3{
+    background-color:aquamarine;
+    border-radius: 10px;
+}
+.s{
+    color: green;
+    text-align: center;
+    font-size: 30px;
+}
+.ul{
+    list-style: none;
+}
+.li{
+    padding: 5px;
+    font-size: 30px;
+    border-left: 2px solid blue;
+}
+.li2{
+    font-size: 30px;
+    border-left: 2px solid blue;
+    color: rgb(0, 132, 220);
+}
+.li3{
+    font-size: 30px;
+    border-left: 2px solid blue;
+    color: green;
+}
+.karobka4{
+    background-color: bisque;
+    border-radius: 10px;
+}
+.lu{
+    list-style: none;
+    padding: 10px;
+}
+.h2{
+    padding: 10px;
+    text-align: center;
+    color: red;
+}
+.p{
+    padding: 10px;
+    text-align: center;
+}
+.ab2{
+    font-size: 30px;
+    padding-left: 10px;
+    border-left: 5px solid blue;
+}
+.ab3{
+     font-size: 30px;
+    padding-left: 10px;
+     border-left: 5px solid blue;
+}
+.ab4{
+    font-size: 30px;
+    padding-left: 10px;
+     border-left: 5px solid blue;
+}
+.karobka5{
+    background-color: rgb(22, 22, 79);
+}
+.bd{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding: 15px;
+}
+
+
